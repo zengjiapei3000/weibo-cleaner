@@ -9,7 +9,7 @@
 // @match        https://weibo.com/*
 // @icon         https://weibo.com/favicon.ico
 // @grant        GM_xmlhttpRequest
-// @updateURL    https://raw.githubusercontent.com/hbc007/weibo-cleaner/master/wb-cleaner.user.js
+// @updateURL    https://raw.githubusercontent.com/zengjiapei3000/weibo-cleaner/master/wb-cleaner.user.js
 // ==/UserScript==
 
 (function () {

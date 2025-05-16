@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         微博一键清空
-// @namespace    https://github.com/hbc007/weibo-cleaner
+// @namespace    https://github.com/zengjiapei3000/weibo-cleaner
 // @version      1.0
 // @description  微博一键清空[动态|关注|粉丝|收藏]
 // @author       hbc007

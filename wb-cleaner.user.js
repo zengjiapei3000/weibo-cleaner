@@ -100,7 +100,7 @@
         GM_xmlhttpRequest(
             {
                 method: "get",
-                url: "https://weibo.com/p/1005053026435753/myfollow?Pl_Official_RelationMyfollow__88_page=" + page,
+                url: "https://weibo.com/p/100505" + uid + "/myfollow?Pl_Official_RelationMyfollow__88_page=" + page,
                 headers: {
                     "Accept": "application/json",
                     "Cookie": cookie,
